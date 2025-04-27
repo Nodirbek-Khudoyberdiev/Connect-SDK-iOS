@@ -3,7 +3,8 @@
 	url = https://github.com/ConnectSDK/Connect-SDK-iOS-Google-Cast.git
 	branch = dev
 [submodule "core"]
-	
+	path = core
+	url = https://github.com/Nodirbek-Khudoyberdiev/Connect-SDK-iOS-Core.git
 	branch = master
 [submodule "modules/firetv"]
 	path = modules/firetv
